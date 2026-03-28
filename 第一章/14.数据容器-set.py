@@ -68,8 +68,35 @@ art_set = {"遁天", "天运子", "韩立", "虎咆", "姜老道", "紫灵"}
 A = french_set.intersection(art_set)
 print(A)
 #方法二&符号的应用
-A = french_set & art_set
-print(A)
+B = french_set & art_set
+print(B)
 #2.找出同时选修了所有四门课程的学生
-#3.找出选修了足球,但是没有选修篮球的学生
+C = football_set & basketball_set & french_set & art_set
+print(C)
+#3.找出选修了篮球,但是没有选修足球的学生
+#求差集
+#方法一
+D = basketball_set.difference(football_set)
+print(D)
+
+# 方法二
+D2 = basketball_set - football_set
+print(D2)
+
+# 方法三
+D3 = {s for s in basketball_set if s not in football_set}
+print(D3)
 #4,统计每一个学生选修的课程数量
+#获得所有学生的名单
+#方法1
+E = football_set.union(art_set).union(basketball_set).union(french_set)
+print(E)
+# 方法二
+E2 = football_set | art_set | basketball_set | french_set
+print(E2)
+
+#求选修课程的数量
+E3 = [*basketball_set, *football_set, *french_set, *art_set]#解包
+
+for s in E2:
+    print(f"{s}选修的课程数量为:{E3.count(s)}")

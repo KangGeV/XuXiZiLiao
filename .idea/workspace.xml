@@ -5,17 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e46c49d3-29ad-46b4-bae8-98dd2e3646b4" name="更改" comment="新增">
-      <change afterPath="$PROJECT_DIR$/第一章/11-0数据容器-list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/第一章/11-1数据容器-list案例.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/第一章/11-2数据容器-list案例.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/第一章/12数据容器-str.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/第一章/13.1数据容器-tuple-例题.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/第一章/13.数据容器-tuple-练习.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/第一章/14.数据容器-set.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/第一章/08for循环.py" beforeDir="false" afterPath="$PROJECT_DIR$/第一章/09循环案例1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/第一章/09循环案例02.py" beforeDir="false" afterPath="$PROJECT_DIR$/第一章/10循环案例02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/第一章/afafa.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第一章/14.数据容器-set.py" beforeDir="false" afterPath="$PROJECT_DIR$/第一章/14.数据容器-set.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -261,7 +252,7 @@
       <workItem from="1773970678494" duration="2989000" />
       <workItem from="1774074962294" duration="14379000" />
       <workItem from="1774229469162" duration="8744000" />
-      <workItem from="1774405686404" duration="8989000" />
+      <workItem from="1774405686404" duration="11565000" />
     </task>
     <task id="LOCAL-00001" summary="新增">
       <option name="closed" value="true" />
@@ -295,7 +286,15 @@
       <option name="project" value="LOCAL" />
       <updated>1774085049392</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="新增">
+      <option name="closed" value="true" />
+      <created>1774662554292</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1774662554292</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -310,7 +309,7 @@
     <SUITE FILE_PATH="coverage/XuXiZiLiao$12_list.coverage" NAME="12数据容器-list案例 覆盖结果" MODIFIED="1774163646966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第一章" />
     <SUITE FILE_PATH="coverage/XuXiZiLiao$11_2_list.coverage" NAME="11-2数据容器-list案例 覆盖结果" MODIFIED="1774247958122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第一章" />
     <SUITE FILE_PATH="coverage/XuXiZiLiao$13_1_tuple_.coverage" NAME="13.1数据容器-tuple-例题 覆盖结果" MODIFIED="1774420089532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第一章" />
-    <SUITE FILE_PATH="coverage/XuXiZiLiao$14__set.coverage" NAME="14.数据容器-set 覆盖结果" MODIFIED="1774662294785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第一章" />
+    <SUITE FILE_PATH="coverage/XuXiZiLiao$14__set.coverage" NAME="14.数据容器-set 覆盖结果" MODIFIED="1774665393199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第一章" />
     <SUITE FILE_PATH="coverage/XuXiZiLiao$afafa.coverage" NAME="afafa 覆盖结果" MODIFIED="1773976000115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第一章" />
     <SUITE FILE_PATH="coverage/XuXiZiLiao$11_list.coverage" NAME="11数据容器-list 覆盖结果" MODIFIED="1774150206923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第一章" />
     <SUITE FILE_PATH="coverage/XuXiZiLiao$11_3_str.coverage" NAME="11-3数据容器-str 覆盖结果" MODIFIED="1774250282591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第一章" />
