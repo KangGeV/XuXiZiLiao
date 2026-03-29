@@ -5,11 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e46c49d3-29ad-46b4-bae8-98dd2e3646b4" name="更改" comment="新增">
-      <change afterPath="$PROJECT_DIR$/第一章/15.0数据容器-dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/第一章/15.1数据容器-dict-例题.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/第一章/15.2数据容器-dict-例题.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一章/11-0数据容器-list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一章/11-1数据容器-list案例.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一章/11-2数据容器-list案例.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一章/12数据容器-str.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一章/13.1数据容器-tuple-例题.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一章/13.数据容器-tuple-练习.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一章/14.数据容器-set.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/第一章/13.数据容器-tuple-练习.py" beforeDir="false" afterPath="$PROJECT_DIR$/第一章/13.0数据容器-tuple-练习.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第一章/08for循环.py" beforeDir="false" afterPath="$PROJECT_DIR$/第一章/09循环案例1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第一章/09循环案例02.py" beforeDir="false" afterPath="$PROJECT_DIR$/第一章/10循环案例02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第一章/afafa.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +90,6 @@
     "Python.12数据容器-list案例.executor": "Run",
     "Python.13.1数据容器-tuple-例题.executor": "Run",
     "Python.14.数据容器-set.executor": "Run",
-    "Python.15.2数据容器-dict-例题.executor": "Run",
     "Python.afafa.executor": "Run",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -107,7 +112,31 @@
       <recent name="D:\APP\PyCharm 2025.3.3\XuXiZiLiao\dsfas" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.15.2数据容器-dict-例题">
+  <component name="RunManager" selected="Python.14.数据容器-set">
+    <configuration name="11-1数据容器-list案例" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="XuXiZiLiao" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第一章" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="D:\APP\PyCharm 2025.3.3\XuXiZiLiao\第一章\11-1数据容器-list案例.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="11-2数据容器-list案例" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="XuXiZiLiao" />
       <option name="ENV_FILES" value="" />
@@ -204,37 +233,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="15.2数据容器-dict-例题" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="XuXiZiLiao" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第一章" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第一章/15.2数据容器-dict-例题.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.15.2数据容器-dict-例题" />
         <item itemvalue="Python.14.数据容器-set" />
         <item itemvalue="Python.13.1数据容器-tuple-例题" />
         <item itemvalue="Python.12数据容器-str" />
         <item itemvalue="Python.11-2数据容器-list案例" />
+        <item itemvalue="Python.11-1数据容器-list案例" />
       </list>
     </recent_temporary>
   </component>
@@ -256,8 +261,7 @@
       <workItem from="1773970678494" duration="2989000" />
       <workItem from="1774074962294" duration="14379000" />
       <workItem from="1774229469162" duration="8744000" />
-      <workItem from="1774405686404" duration="13174000" />
-      <workItem from="1774681622688" duration="11944000" />
+      <workItem from="1774405686404" duration="8989000" />
     </task>
     <task id="LOCAL-00001" summary="新增">
       <option name="closed" value="true" />
@@ -291,23 +295,7 @@
       <option name="project" value="LOCAL" />
       <updated>1774085049392</updated>
     </task>
-    <task id="LOCAL-00005" summary="新增">
-      <option name="closed" value="true" />
-      <created>1774662554292</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1774662554292</updated>
-    </task>
-    <task id="LOCAL-00006" summary="新增">
-      <option name="closed" value="true" />
-      <created>1774665472470</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1774665472470</updated>
-    </task>
-    <option name="localTasksCounter" value="7" />
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -318,12 +306,11 @@
     <option name="LAST_COMMIT_MESSAGE" value="新增" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/XuXiZiLiao$15_2_dict_.coverage" NAME="15.2数据容器-dict-例题 覆盖结果" MODIFIED="1774747497449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第一章" />
     <SUITE FILE_PATH="coverage/XuXiZiLiao$0902.coverage" NAME="09循环案例02 覆盖结果" MODIFIED="1774084776243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第一章" />
     <SUITE FILE_PATH="coverage/XuXiZiLiao$12_list.coverage" NAME="12数据容器-list案例 覆盖结果" MODIFIED="1774163646966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第一章" />
     <SUITE FILE_PATH="coverage/XuXiZiLiao$11_2_list.coverage" NAME="11-2数据容器-list案例 覆盖结果" MODIFIED="1774247958122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第一章" />
     <SUITE FILE_PATH="coverage/XuXiZiLiao$13_1_tuple_.coverage" NAME="13.1数据容器-tuple-例题 覆盖结果" MODIFIED="1774420089532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第一章" />
-    <SUITE FILE_PATH="coverage/XuXiZiLiao$14__set.coverage" NAME="14.数据容器-set 覆盖结果" MODIFIED="1774665393199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第一章" />
+    <SUITE FILE_PATH="coverage/XuXiZiLiao$14__set.coverage" NAME="14.数据容器-set 覆盖结果" MODIFIED="1774662294785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第一章" />
     <SUITE FILE_PATH="coverage/XuXiZiLiao$afafa.coverage" NAME="afafa 覆盖结果" MODIFIED="1773976000115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第一章" />
     <SUITE FILE_PATH="coverage/XuXiZiLiao$11_list.coverage" NAME="11数据容器-list 覆盖结果" MODIFIED="1774150206923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第一章" />
     <SUITE FILE_PATH="coverage/XuXiZiLiao$11_3_str.coverage" NAME="11-3数据容器-str 覆盖结果" MODIFIED="1774250282591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第一章" />
