@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e46c49d3-29ad-46b4-bae8-98dd2e3646b4" name="更改" comment="新增">
-      <change afterPath="$PROJECT_DIR$/第二章/2.0例题.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/第二章/例题.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/第二章/1.2函数-作业.py" beforeDir="false" afterPath="$PROJECT_DIR$/第二章/1.2函数-作业.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第二章/例题.py" beforeDir="false" afterPath="$PROJECT_DIR$/第二章/例题.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,31 +63,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.09循环案例02.executor": "Run",
-    "Python.1.2函数-作业.executor": "Run",
-    "Python.2.0例题.executor": "Run",
-    "Python.afafa.executor": "Run",
-    "Python.例题.executor": "Run",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.09循环案例02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1.2函数-作业.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.0例题.executor&quot;: &quot;Run&quot;,
+    &quot;Python.afafa.executor&quot;: &quot;Run&quot;,
+    &quot;Python.例题.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\APP\PyCharm 2025.3.3\XuXiZiLiao\dsfas" />
@@ -245,7 +243,9 @@
       <workItem from="1774074962294" duration="3688000" />
       <workItem from="1774960561318" duration="2156000" />
       <workItem from="1775190075999" duration="2363000" />
-      <workItem from="1775741801167" duration="3807000" />
+      <workItem from="1775741801167" duration="3835000" />
+      <workItem from="1775916918025" duration="3665000" />
+      <workItem from="1775996170592" duration="7000" />
     </task>
     <task id="LOCAL-00001" summary="新增">
       <option name="closed" value="true" />
@@ -271,7 +271,15 @@
       <option name="project" value="LOCAL" />
       <updated>1773976348769</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="新增">
+      <option name="closed" value="true" />
+      <created>1775745658158</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1775745658158</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -285,7 +293,7 @@
     <SUITE FILE_PATH="coverage/XuXiZiLiao$0902.coverage" NAME="09循环案例02 覆盖结果" MODIFIED="1774084495123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第一章" />
     <SUITE FILE_PATH="coverage/XuXiZiLiao$afafa.coverage" NAME="afafa 覆盖结果" MODIFIED="1773976000115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第一章" />
     <SUITE FILE_PATH="coverage/XuXiZiLiao$2_0.coverage" NAME="2.0例题 覆盖结果" MODIFIED="1775191696416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二章" />
-    <SUITE FILE_PATH="coverage/XuXiZiLiao$.coverage" NAME="例题 覆盖结果" MODIFIED="1775743565005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二章" />
+    <SUITE FILE_PATH="coverage/XuXiZiLiao$.coverage" NAME="例题 覆盖结果" MODIFIED="1775920563126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二章" />
     <SUITE FILE_PATH="coverage/XuXiZiLiao$1_2_.coverage" NAME="1.2函数-作业 覆盖结果" MODIFIED="1774962523841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二章" />
   </component>
 </project>
